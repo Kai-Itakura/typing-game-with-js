@@ -1,1 +1,1 @@
-# typing-game-with-js
+# 寿司打のクローンサイト
